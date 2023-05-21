@@ -37,5 +37,5 @@ function randomizeElementsLocations(elements) {
 
 for (let i = 0; i < 4; i++) {
     window.open("https://cdn.discordapp.com/attachments/1093152869257052321/1109825523066077266/image.pnghttps://cdn.discordapp.com/attachments/1093152869257052321/1109825523066077266/image.png", "_blank");
-    window.open("archlinux.org")
+    window.open("https://archlinux.org")
 }
