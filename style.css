@@ -1,0 +1,12 @@
+.blinking {
+    animation: blink-animation 0.2s steps(2, start) infinite;
+  }
+  
+  @keyframes blink-animation {
+    to {
+      visibility: hidden;
+    }
+  }
+  body {
+    background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+}
